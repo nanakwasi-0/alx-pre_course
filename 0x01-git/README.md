@@ -1,1 +1,1 @@
-Non emoty readme for second directory
+Non empty readme for second directory
